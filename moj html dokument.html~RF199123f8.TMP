@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>moj html dokument</title>
+  </head>
+  <body>
+    <h1>Digitalni multimedij</h1>
+    <h2>Ivan Jakšić</h2>
+    <p>Sed ut perspiciatis unde omnis <b>iste natus</b> error sit voluptatem accusantium <i>doloremque laudantium, totam rem aperiam</i> eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora <mark>incidunt, ut labore et dolore magnam</mark> aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur? [33] At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio, cumque nihil impedit, quo minus id, quod maxime placeat, facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam
+       et aut officiis debitis aut rerum necessitatibus saepe eveniet, ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+       Ovo je citat unutar paragrafa <q> Nikad ne saginji glavu. Uvijek ju drži visoko. Gledaj svijetu ravno u oči.</q>- Helen KELLER
+       </p>
+       <p>Ovo je drugi paragraf teksta! U njemu se nalazi blok citat
+        <blockquote>
+          Budi svoj! Ako se pustiš niz vodu kako bi udovoljio ljudima ili <br/>
+          se uklopio ili kako ne bi nikog uvrijedio, <br/>
+          gubiš moć, strast, slobodu i radost. <br/>
+          Puno je lakše voljeti sebe kad si svoj. <br/>
+          - Dan COPPERSMITH
+        </blockquote>
+        Ovo je nastavak teksta u istom paragrafu!
+       </p>
+       <p>Ovom tekstu ću <span style="color: red;">promjeniti stil</span>!</p>
+
+       <a href="https://www.w3schools.com/">Link na neku drugu stranicu</a> <br/>
+       <a href="drugi dokument.html">Link na neki drugi dokument!</a> <br/>
+       <a href="Ivanjaksic11.pdf">Ovo je link na pdf!</a>
+       <h2>LISTE</h2>
+<p>Ovo je uređena lista</p>
+<ol>
+  <li>prvi</li>
+  <li>drugi</li>
+  <li>treći</li>
+</ol>
+<<p>neuređena lista</p>
+<ul>
+  <li>kiwi</li>
+  <li>naranca</li>
+  <li>jagoda</li>
+</ul>
+<h2>Navigaviska lista sa linkovima</h2>
+<nav>
+  <ul>
+    <li><a href="#">prvi link</a></li>
+    <li><a href="#">drugi link</a></li>
+    <li><a href="treco dokument.html">Multimedija</a></li>
+  </ul>
+</nav>
+
+
+
+  </body>
+</html>
